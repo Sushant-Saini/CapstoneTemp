@@ -1,0 +1,44 @@
+body{
+    background-image: url("bg.jpeg");
+    background-size: cover;
+    background-position: center top; 
+    background-repeat: no-repeat;
+
+}
+
+h1.text-center{
+    color: rgb(31, 26, 177);
+    font-size: xxx-large;
+    font-weight: 600;
+    margin-bottom: 20vh;
+    margin-top: 10vh;
+}
+
+label.text-info{
+    font-size: x-large;
+    color: black;
+    margin-bottom: 3vh;
+    
+}
+
+div#mybtn{
+    margin-top: 10%;
+    text-align: center;
+    size: 50%;
+}
+
+div.partychoice{
+    display: flex;
+    align-content: center;
+    align-self: center;
+    height: 50vh;
+    width: 50vw;
+    font-size: x-large;
+    color: beige;
+}
+
+img.partylogo{
+    height: 10vh;
+    width: 10vw;
+    display: block;
+}
